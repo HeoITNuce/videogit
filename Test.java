@@ -8,6 +8,7 @@ public class Test {
 		MainUI ui=new MainUI("Quản lý lớp học");
 		ui.showWindow();
 		đoạn này đã sửa nhé 
+			mk sửa thêm đoạn này nhé 
 	}
 
 }
